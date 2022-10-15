@@ -1,0 +1,10 @@
+获取cid
+f"https://api.bilibili.com/x/player/pagelist?bvid={bv}&jsonp=jsonp"
+获取视频信息
+f"https://api.bilibili.com/x/web-interface/view?bvid={bv}"
+获取视频弹幕
+f'https://comment.bilibili.com/{cid}.xml'
+获取直播弹幕
+f"http://api.live.bilibili.com/ajax/msg?roomid={rid}"
+获取和下载视频链接
+f"https://api.bilibili.com/x/player/playurl?bvid={bid}&cid={cid}&qn=64"

@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": [
+        {
+            "cid": 479409361,
+            "page": 1,
+            "from": "vupload",
+            "part": "GP_WATER_PLED_BILIBILI60_OV_UHD_SDR_20211209_WMID_9782.encoded.mkv",
+            "duration": 3436,
+            "vid": "",
+            "weblink": "",
+            "dimension": {
+                "width": 3840,
+                "height": 2160,
+                "rotate": 0
+            }
+        }
+    ]
+}

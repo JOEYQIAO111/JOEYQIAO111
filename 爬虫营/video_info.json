@@ -1,0 +1,56 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "from": "local",
+        "result": "suee",
+        "message": "",
+        "quality": 32,
+        "format": "flv480",
+        "timelength": 1032292,
+        "accept_format": "flv480,mp4",
+        "accept_description": [
+            "清晰 480P",
+            "流畅 360P"
+        ],
+        "accept_quality": [
+            32,
+            16
+        ],
+        "video_codecid": 7,
+        "seek_param": "start",
+        "seek_type": "offset",
+        "durl": [
+            {
+                "order": 1,
+                "length": 1032292,
+                "size": 50362306,
+                "ahead": "",
+                "vhead": "",
+                "url": "https://xy60x3x245x116xy.mcdn.bilivideo.cn:4483/upgcxcode/05/68/253696805/253696805_nb2-1-32.flv?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1640767255&gen=playurlv2&os=mcdn&oi=1929178561&trid=0000326d281a74a04c5c8d27f9b1095e90adu&platform=pc&upsig=2a7424e42792b1863339668c93b6c453&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mcdnid=8000456&mid=0&bvc=vod&nettype=0&orderid=0,3&agrr=1&bw=48800&logo=A0000080",
+                "backup_url": [
+                    "https://xy175x165x229x117xy.mcdn.bilivideo.cn:4483/upgcxcode/05/68/253696805/253696805_nb2-1-32.flv?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1640767255&gen=playurlv2&os=mcdn&oi=1929178561&trid=0000326d281a74a04c5c8d27f9b1095e90adu&platform=pc&upsig=2a7424e42792b1863339668c93b6c453&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mcdnid=8000337&mid=0&bvc=vod&nettype=0&orderid=1,3&agrr=1&bw=48800&logo=60000080",
+                    "https://cn-sdjn2-cu-v-03.bilivideo.com/upgcxcode/05/68/253696805/253696805_nb2-1-32.flv?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1640767255&gen=playurlv2&os=bcache&oi=1929178561&trid=0000326d281a74a04c5c8d27f9b1095e90adu&platform=pc&upsig=88b080937cc63e66cb297030509b2008&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&cdnid=8170&mid=0&bvc=vod&nettype=0&orderid=2,3&agrr=1&bw=48800&logo=40000000"
+                ]
+            }
+        ],
+        "support_formats": [
+            {
+                "quality": 32,
+                "format": "flv480",
+                "new_description": "480P 清晰",
+                "display_desc": "480P",
+                "superscript": ""
+            },
+            {
+                "quality": 16,
+                "format": "mp4",
+                "new_description": "360P 流畅",
+                "display_desc": "360P",
+                "superscript": ""
+            }
+        ],
+        "high_format": null
+    }
+}
