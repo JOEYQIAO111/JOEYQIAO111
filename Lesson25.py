@@ -24,7 +24,7 @@ else:
             dic[k1].append(li[i])
 print(dic)'''
 
-'''
+
 import pgzrun
 import random
 
@@ -58,8 +58,8 @@ def on_mouse_move(pos):
     balls.append(ball)
 
 pgzrun.go()
-'''
 
+'''
 import pgzero
 import random
 
@@ -73,4 +73,4 @@ def update():
     pass
 
 def mouse(pos):
-    x = pos[0]
+    x = pos[0]'''

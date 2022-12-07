@@ -82,10 +82,10 @@ def bird_update():
     if not bird_dead:
         #换成活着的小鸟的图片
         bird.image = 'bird1'
-
+    
     #判断小鸟有没有撞到管子
     if bird.colliderect(pipe_top) or bird.colliderect(pipe_bottom):
-        #如果碰到了就定义小鸟死了
+        #如果碰到了就定义小鸟死了 
         bird_dead = True
         #换成死掉的小鸟的图片
         bird.image = 'birddead'
